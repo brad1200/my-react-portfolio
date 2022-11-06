@@ -1,9 +1,24 @@
 import React from 'react';
 
-export default function Blog() {
+const styles = {
+    card: {
+        margin: 20,
+        background: 'red',
+        // textAlign: 'center'
+    },
+    h1: {
+        textAlign: 'center'
+    },
+    ul: {
+        textAlign: 'center',
+        margin: 20
+    }
+}
+
+function Blog() {
     return (
-        <div>
-            <h1>My Resume!</h1>
+        <div style={styles.card}>
+            <h1 style={styles.h1}>My Resume!</h1>
 
 
             <ul>
@@ -19,3 +34,5 @@ export default function Blog() {
         </div>
     );
 }
+
+export default Blog;
