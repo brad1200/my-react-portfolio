@@ -1,11 +1,19 @@
 import React from "react";
-import ReactDOM from 'react-dom';
-import { SocialIcon } from 'react-social-icons';
+// import ReactDOM from 'react-dom';
+// import { SocialIcon } from 'react-social-icons';
+
+const styles = {
+    footer: {
+        background: 'green',
+        position: 'fixed',
+        bottom: 0
+    }
+}
 
 function Footer() {
-    <div className="footer">
+    <footer>
         <p>This is some content in sticky footer</p>
-    </div>
+    </footer>
 }
 
 export default Footer;
