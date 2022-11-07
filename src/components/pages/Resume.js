@@ -3,7 +3,7 @@ import React from 'react';
 const styles = {
     card: {
         margin: 20,
-        background: 'red',
+        // background: 'red',
         // textAlign: 'center'
     },
     h1: {
