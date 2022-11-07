@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# My React Portfolio
+
+# Overview
+Creating a portfolio using React so employers are able to see my work. Employers are able to see a single-page application.
+
+# Description
+This is my personal react portfolio that was made from scratch. It gives an about me, portfolio with assignmets that have been done through this class, a contact page for a user to input their name, email, and message to send to me, and then lastly a resume of what I have learned and have worked on through this class.
+
+
+# Tools
+* React
+
+
+
+# Installation
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
